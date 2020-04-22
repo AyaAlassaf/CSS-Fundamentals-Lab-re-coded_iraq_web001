@@ -23,8 +23,8 @@ nav a{
 figcaption{
   text-align: center;
 }
-#featured-property p{
-display: center;
+#featured-property{
+  text-align: center;
   width: 800px;
 }
 #details{
