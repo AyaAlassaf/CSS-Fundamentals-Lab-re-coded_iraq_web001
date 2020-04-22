@@ -24,9 +24,9 @@ nav a{
 figcaption{
   text-align: center;
 }
-#featured-property p{
+p #featured-property{
 
-  text-align: ;
+  text-align:right ;
   width: 800px;
 }
 #details{
